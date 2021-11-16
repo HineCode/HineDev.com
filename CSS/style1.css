@@ -1,0 +1,259 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* menuu */
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+.header_inner {
+  top: 0;
+  position: fixed;
+}
+/* banhocduocgi */
+
+.container1 {
+  margin-top: 150px;
+}
+.maint h1 {
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 60px;
+  margin-left: 100px;
+}
+.maint p {
+  color: #555252;
+  font-size: 17px;
+  line-height: 22.4px;
+  padding: 20px 100px;
+}
+.container1 h3 {
+  font-size: 20px;
+  margin-left: 100px;
+  margin-bottom: 23px;
+  font-weight: 600;
+}
+#header {
+  margin-left: 85px;
+  display: flex;
+  font-size: 17px;
+  list-style: none;
+}
+.flex {
+  margin-right: 40px;
+}
+.flex li {
+  padding: 6px 0px;
+  color: #555252;
+}
+.fa-check {
+  padding: 0px 15px;
+  color: rgb(118, 118, 248);
+}
+
+/* phanyoutube */
+
+.youtube {
+  margin-top: -165px;
+  margin-bottom: 30px;
+}
+.video span {
+  font-size: 30px;
+  margin-left: 112px;
+  color: rgb(118, 118, 248);
+}
+.video button {
+  background-color: rgb(118, 118, 248);
+  /* border: none; */
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-size: 18px;
+  margin-left: 145px;
+  margin-top: 20px;
+  color: #ffff;
+}
+.line {
+  margin-left: 105px;
+  margin-top: 30px;
+  line-height: 30px;
+  color: #555252;
+}
+.fa-tachometer {
+  padding: 0px 17px;
+}
+.fa-film {
+  padding: 0px 17px;
+}
+.fa-comments {
+  padding: 0px 17px;
+}
+.fa-battery-full {
+  padding: 0px 16px;
+}
+
+/* phannoidungkhoahoc */
+
+.noidungkhoahoc {
+  margin-top: -250px;
+  margin-bottom: 50px;
+}
+.mant {
+  font-size: 17px;
+  display: flex;
+  margin-left: 100px;
+  color: #555252;
+}
+.mant span {
+  margin-right: 20px;
+}
+.mant li {
+  margin-right: 20px;
+}
+.mant a {
+  padding-left: 243px;
+  text-decoration: none;
+  color: #7c80f8;
+}
+
+/* phannoidungkhoahoc2 */
+
+.mant-1 {
+  font-size: 16px;
+  margin-left: 100px;
+  margin-top: 20px;
+  list-style: none;
+  line-height: 50px;
+  color: #272727;
+}
+.back {
+  padding: 0px 50px;
+  background-color: #f5f5f5;
+  margin-right: 593px;
+  margin-top: 13px;
+  border-radius: 7px;
+  border: 1px solid #e6e2e2;
+}
+.fa-plus {
+  padding: 0px 19px;
+  margin-left: -35px;
+  color: #3d41be;
+}
+.mant-1 span {
+  float: right;
+  color: #9c9696;
+  font-size: 15px;
+}
+
+/* phandropdownkhoahoc */
+
+.dropdown {
+  margin-left: 44px;
+  /* display: none;
+  position: absolute; */
+}
+/* [id^="btn"]:checked + ul {
+  display: block;
+} */
+.dropdown li {
+  border-bottom: 1px solid #f1ecec;
+  max-width: 56%;
+  color: #9c9696;
+  font-size: 15px;
+  display: block;
+}
+.fa-play-circle {
+  color: #b4b5da;
+  padding: 0px 4px;
+}
+input {
+  display: none;
+}
+
+/* phankecuoi */
+
+.flex2 p {
+  margin-left: 24px;
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.flex2 {
+  margin-left: 85px;
+  font-size: 17px;
+}
+.flex2 li {
+  padding: 6px 0px;
+  color: #555252;
+  list-style: none;
+}
+
+/* phancuoi */
+
+.end1 {
+  margin-top: 30px;
+  display: flex;
+  border-top: 1px solid #e6e2e2;
+  margin-bottom: -200px;
+}
+img {
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 12px;
+}
+.end1 span {
+  margin-top: 30px;
+  font-size: 15px;
+  margin-left: 30px;
+  color: #817e7e;
+}
+.icon {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 1090px;
+  color: #817e7e;
+}
+/* phancuoi loading */
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0 10px;
+  margin: 30px 0px;
+  margin-top: 145px;
+}
+.loading div {
+  width: 8px;
+  height: 8px;
+  border-radius: 100rem;
+  background-color: #817e7e;
+  animation: stagger 0.5s infinite cubic-bezier(0.25, 0.46, 0.45, 0.94)
+    alternate;
+}
+.loading div:first-child {
+  animation-delay: -0.12s;
+}
+.loading div:nth-child(2) {
+  animation-delay: -0.24s;
+}
+.loading div:nth-child(3) {
+  animation-delay: -0.36s;
+}
+.loading div:nth-child(4) {
+  animation-delay: -0.48s;
+}
+@keyframes stagger {
+  0% {
+    transform: translateY(0);
+  }
+  50%,
+  100% {
+    transform: translateY(20px);
+  }
+}

@@ -1,0 +1,1037 @@
+/* PC */
+@media (min-width: 1024px) {
+  #img1 {
+    margin-left: -20px;
+  }
+}
+/* mobile 5s */
+
+@media (max-width: 320px) {
+  .warray {
+    flex-direction: column;
+    /* background-color: #f8f8f8; */
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+  }
+  #menu {
+    flex-direction: column;
+    list-style: none;
+    margin-left: 0px;
+    display: none;
+    margin: 15px 20px;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .btn-important {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  #toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* xong menu */
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phantimkiem */
+
+  .head-course {
+    margin-top: 0px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 24px;
+    margin-left: 16px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 16px;
+  }
+  .search-container input {
+    font-size: 17px;
+  }
+  ::placeholder {
+    font-size: 16px;
+  }
+  .product-item {
+    width: 365px;
+    height: 455px;
+  }
+  .product {
+    /* margin-left: 30px; */
+    margin-top: 25px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .search-container input {
+    width: 270px;
+  }
+  .head-course h2 {
+    font-size: 17px;
+    padding: 0px 5px;
+  }
+  .letter {
+    font-size: 20px;
+    margin-left: 40px;
+  }
+  .product-item {
+    width: 305px;
+    height: 410px;
+  }
+  .rating span {
+    margin-left: 100px;
+    font-size: 10px;
+  }
+  .col-4 h4 {
+    font-size: 17px;
+  }
+  .col-4 h5 a {
+    font-size: 15px;
+  }
+  .row {
+    margin-left: -25px;
+  }
+  .row-20 {
+    margin-left: -25px;
+    margin-top: 440px;
+  }
+  .row-2 {
+    margin-top: 880px;
+    margin-left: -25px;
+  }
+  .title-leg {
+    font-size: 20px;
+    margin-left: 65px;
+  }
+  .row-3 {
+    margin-top: 1350px;
+    margin-left: -25px;
+  }
+  .row-4 {
+    margin-top: 430px;
+    margin-left: -25px;
+  }
+  .row-5 {
+    margin-top: 860px;
+    margin-left: -25px;
+  }
+  .row-7 {
+    margin-top: 1285px;
+    margin-left: -25px;
+  }
+  .row-8 {
+    margin-top: 1720px;
+    margin-left: -25px;
+  }
+  .title-pop span {
+    font-size: 20px;
+    margin-left: 23px;
+  }
+  .row-9 {
+    margin-top: 2180px;
+    margin-left: -25px;
+  }
+  .row-10 {
+    margin-top: 430px;
+    margin-left: -25px;
+  }
+  .row-12 {
+    margin-top: 855px;
+    margin-left: -25px;
+  }
+  .row-19 {
+    margin-top: 1290px;
+    margin-left: -25px;
+  }
+  .title-end span {
+    font-size: 20px;
+    margin-left: 23px;
+  }
+  .row-13 {
+    margin-top: 1750px;
+    margin-left: -25px;
+  }
+  .row-14 {
+    margin-top: 430px;
+    margin-left: -25px;
+  }
+  .row-15 {
+    margin-top: 860px;
+    margin-left: -25px;
+  }
+  .row-23 {
+    margin-top: 1290px;
+    margin-left: -25px;
+  }
+  .title-tow span {
+    font-size: 20px;
+    margin-left: 23px;
+  }
+  .row-16 {
+    margin-top: 445px;
+    margin-left: -25px;
+  }
+  .product-item .item-img img {
+    width: 275px;
+    height: 192px;
+  }
+  .row-18 {
+    margin-top: 435px;
+    margin-left: -25px;
+  }
+  /* phandangki */
+
+  .container10 {
+    margin-top: 10px;
+  }
+  .container10 h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .container10 p {
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+  .modal {
+    padding-top: 30px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 90%;
+    height: 99%;
+  }
+  .form-control {
+    width: 250px;
+  }
+  .clearfix button {
+    width: 260px;
+  }
+  /* phancuoi */
+
+  .tow {
+    height: 430px;
+    margin-top: 1000px;
+  }
+  .col-5 {
+    margin-top: 5px;
+    margin-left: -45px;
+  }
+  .logo-1 {
+    margin-left: -75px;
+  }
+  .col-12 {
+    padding: 0px 7px;
+    text-align: left;
+  }
+  .col-12 p {
+    font-size: 15px;
+  }
+  .col-13 {
+    font-size: 17px;
+  }
+}
+
+/* mobile 6,7,8 */
+
+@media (min-width: 359px) and (max-width: 667px) {
+  .warray {
+    flex-direction: column;
+    /* background-color: #f8f8f8; */
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -70px;
+  }
+  #menu {
+    flex-direction: column;
+    list-style: none;
+    margin-left: 0px;
+    display: none;
+    margin: 15px 20px;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .btn-important {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  #toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* xong menu */
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phantimkiem */
+
+  .head-course {
+    margin-top: 0px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 24px;
+    margin-left: 16px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 16px;
+  }
+  .search-container input {
+    font-size: 17px;
+  }
+  ::placeholder {
+    font-size: 16px;
+  }
+  .product-item {
+    width: 365px;
+    height: 455px;
+  }
+  .product {
+    /* margin-left: 30px; */
+    margin-top: 25px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .product-item {
+    width: 335px;
+    height: 452px;
+  }
+  .rating span {
+    margin-left: 130px;
+    font-size: 15px;
+  }
+  .row {
+    margin-left: -18px;
+  }
+  .row-20 {
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-2 {
+    margin-left: -18px;
+    margin-right: 780px;
+    margin-top: 940px;
+  }
+  .row-3 {
+    margin-left: -18px;
+    margin-top: 1440px;
+  }
+  .row-4 {
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-5 {
+    margin-left: -18px;
+    margin-top: 940px;
+  }
+  .row-7 {
+    margin-left: -18px;
+    margin-top: 1410px;
+  }
+  .row-8 {
+    margin-left: -18px;
+    margin-top: 1890px;
+  }
+  .row-9 {
+    margin-left: -18px;
+    margin-top: 2390px;
+  }
+  .row-10 {
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-11 {
+    /* margin-left: 785px; */
+    display: none;
+  }
+  .row-12 {
+    margin-left: -18px;
+    margin-top: 940px;
+  }
+  .row-19 {
+    margin-left: -18px;
+    margin-top: 1418px;
+  }
+  .row-22 {
+    /* margin-left: 388px; */
+    display: none;
+  }
+  .row-13 {
+    margin-left: -18px;
+    margin-top: 1925px;
+  }
+  .row-14 {
+    /* margin-left: 388px; */
+    margin-left: -18px;
+    margin-top: 470px;
+  }
+  .row-15 {
+    /* margin-left: 785px; */
+    margin-left: -18px;
+    margin-top: 940px;
+  }
+  .row-23 {
+    margin-left: -18px;
+    margin-top: 1410px;
+  }
+  .row-16 {
+    margin-left: -20px;
+  }
+  .row-18 {
+    /* margin-left: 388px; */
+    margin-left: -20px;
+    margin-top: 470px;
+  }
+  /* phancuoi */
+  .tow {
+    height: 425px;
+    margin-top: 1000px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .logo-1 {
+    margin-left: -140px;
+  }
+  .col-5 p {
+    margin-left: 53px;
+  }
+  .icon-1 {
+    margin-left: 53px;
+  }
+  .col-12 {
+    padding: 0px 15px;
+    text-align: left;
+  }
+  .col-12 p {
+    font-size: 15px;
+  }
+  /* phandangki */
+  .container10 {
+    margin-top: 10px;
+  }
+  .container10 h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .container10 p {
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+  .modal {
+    padding-top: 30px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 90%;
+    height: 99%;
+  }
+  .form-control {
+    width: 300px;
+  }
+  .clearfix button {
+    width: 300px;
+  }
+}
+
+/* mobile */
+@media (min-width: 413px) and (max-height: 735px) {
+  .warray {
+    flex-direction: column;
+  }
+  .logo {
+    margin-left: 20px;
+    margin-right: -80px;
+  }
+  #menu {
+    flex-direction: column;
+    list-style: none;
+    margin-left: 0px;
+    display: none;
+    margin: 15px 20px;
+  }
+  #myBtn a {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .btn-important {
+    font-size: 17px;
+    font-weight: 500;
+  }
+  #toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* xong menu */
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phantimkiem */
+
+  .head-course {
+    margin-top: 0px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 24px;
+    margin-left: 16px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 16px;
+  }
+  .search-container input {
+    font-size: 17px;
+  }
+  ::placeholder {
+    font-size: 16px;
+  }
+  .product-item {
+    width: 365px;
+    height: 455px;
+  }
+  .product {
+    /* margin-left: 30px; */
+    margin-top: 25px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .col-4 h4 {
+    font-size: 19px;
+  }
+  .rating span {
+    margin-left: 150px;
+    font-size: 15px;
+  }
+  .col-4 h5 a {
+    font-size: 15px;
+  }
+  .row {
+    margin-left: -9px;
+  }
+  .row-20 {
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-2 {
+    margin-left: -9px;
+    margin-right: 780px;
+    margin-top: 940px;
+  }
+  .row-3 {
+    margin-left: -9px;
+    margin-top: 1440px;
+  }
+  .row-4 {
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-5 {
+    margin-left: -9px;
+    margin-top: 940px;
+  }
+  .row-7 {
+    margin-left: -9px;
+    margin-top: 1410px;
+  }
+  .row-8 {
+    margin-left: -9px;
+    margin-top: 1890px;
+  }
+  .row-9 {
+    margin-left: -9px;
+    margin-top: 2390px;
+  }
+  .row-10 {
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-11 {
+    /* margin-left: 785px; */
+    display: none;
+  }
+  .row-12 {
+    margin-left: -9px;
+    margin-top: 940px;
+  }
+  .row-19 {
+    margin-left: -9px;
+    margin-top: 1420px;
+  }
+  .row-22 {
+    /* margin-left: 388px; */
+    display: none;
+  }
+  .row-13 {
+    margin-left: -9px;
+    margin-top: 1925px;
+  }
+  .row-14 {
+    /* margin-left: 388px; */
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+  .row-15 {
+    /* margin-left: 785px; */
+    margin-left: -9px;
+    margin-top: 940px;
+  }
+  .row-23 {
+    margin-left: -9px;
+    margin-top: 1410px;
+  }
+  .row-16 {
+    margin-left: -9px;
+  }
+  .row-18 {
+    /* margin-left: 388px; */
+    margin-left: -9px;
+    margin-top: 470px;
+  }
+
+  /* phandangki */
+
+  .container10 {
+    margin-top: 10px;
+  }
+  .container10 h1 {
+    font-size: 26px;
+    margin-bottom: 25px;
+  }
+  .container10 p {
+    margin-bottom: 25px;
+    font-size: 15px;
+  }
+  .modal {
+    padding-top: 30px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 90%;
+    height: 96%;
+  }
+  .form-control {
+    width: 340px;
+  }
+  .clearfix button {
+    width: 340px;
+  }
+
+  /* phancuoi */
+  .tow {
+    height: 430px;
+    margin-top: 1000px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .col-12 {
+    padding: 0px 18px;
+    text-align: left;
+  }
+  .col-12 p {
+    font-size: 16px;
+  }
+  .col-13 {
+    font-size: 17px;
+  }
+}
+
+/* từ pc xuống  */
+@media (min-width: 1024px) and (max-width: 1239px) {
+  #img1 {
+    margin-left: -20px;
+  }
+  .warray {
+    flex-direction: column;
+  }
+  #menu {
+    flex-direction: column;
+    list-style: none;
+    margin-left: 0px;
+    display: none;
+    margin: 15px 50px;
+  }
+  .logo {
+    margin-left: 50px;
+    margin-right: -50px;
+  }
+  .rot {
+    display: flex;
+  }
+  #toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* phanduoimenu */
+  .head-course {
+    margin-top: 0px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 25px;
+    margin-left: 160px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 160px;
+  }
+
+  /* phankhoahoc */
+  .letter {
+    margin-left: 160px;
+  }
+  .row {
+    margin-left: 130px;
+  }
+  .row-20 {
+    margin-left: 520px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .row-2 {
+    margin-left: 130px;
+    margin-top: 470px;
+  }
+  .row-3 {
+    margin-left: 130px;
+    margin-top: 970px;
+  }
+  .row-4 {
+    margin-left: 520px;
+  }
+  .row-5 {
+    margin-top: 470px;
+    margin-left: 130px;
+  }
+  .row-7 {
+    margin-left: 520px;
+    margin-top: 470px;
+  }
+  .row-8 {
+    margin-left: 130px;
+    margin-top: 940px;
+  }
+  .row-9 {
+    margin-left: 130px;
+    margin-top: 1440px;
+  }
+  .row-10 {
+    margin-left: 520px;
+  }
+  .row-11 {
+    margin-left: 130px;
+    margin-top: 470px;
+  }
+  .row-12 {
+    margin-left: 520px;
+  }
+  .row-19 {
+    margin-left: 130px;
+    margin-top: 940px;
+  }
+  .row-22 {
+    margin-left: 520px;
+  }
+  .row-13 {
+    margin-left: 130px;
+    margin-top: 1440px;
+  }
+  .row-14 {
+    margin-left: 520px;
+  }
+  .row-15 {
+    margin-left: 130px;
+    margin-top: 470px;
+  }
+  .row-23 {
+    margin-left: 520px;
+  }
+  .row-16 {
+    margin-left: 130px;
+    margin-top: 480px;
+  }
+  .row-18 {
+    margin-left: 520px;
+  }
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phandangki */
+  .modal {
+    padding-top: 175px;
+  }
+  .container10 {
+    margin-top: 77px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 80%;
+    height: 65%;
+  }
+  .form-control {
+    width: 480px;
+  }
+  .clearfix button {
+    width: 480px;
+  }
+
+  /* phancuoi */
+
+  .tow {
+    height: 400px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .col-12 {
+    margin-top: 12px;
+    margin-left: -36px;
+  }
+  .logo-1 {
+    margin-left: -210px;
+  }
+  .comer {
+    margin-left: -50px;
+  }
+}
+
+/* ipap */
+@media (min-width: 753px) and (max-width: 1023px) {
+  .warray {
+    flex-direction: column;
+  }
+  #menu {
+    flex-direction: column;
+    list-style: none;
+    margin-left: 0px;
+    display: none;
+    margin: 15px 50px;
+  }
+  .logo {
+    margin-left: 50px;
+    margin-right: -50px;
+  }
+  .rot {
+    display: flex;
+  }
+  #toggle {
+    display: block;
+    margin-top: -45px;
+    text-align: right;
+    margin-right: 20px;
+  }
+  .firne {
+    margin-left: -24px;
+    margin-top: 10px;
+  }
+  .header-item {
+    display: none;
+  }
+  /* phanduoimenu */
+  .head-course {
+    margin-top: 0px;
+  }
+  .head-course h2 {
+    margin-top: -150px;
+    font-size: 25px;
+    margin-left: 100px;
+  }
+  .search-container {
+    margin-top: -70px;
+    margin-left: 100px;
+  }
+
+  /* phankhoahoc */
+  .letter {
+    margin-left: 100px;
+  }
+  .row {
+    margin-left: 60px;
+  }
+  .product:hover .product-item_box {
+    display: none;
+  }
+  .product1:hover .product-item_box1 {
+    display: none;
+  }
+  .row-20 {
+    margin-left: 450px;
+  }
+  .row-2 {
+    margin-left: 60px;
+    margin-top: 470px;
+  }
+  .row-3 {
+    margin-left: 60px;
+    margin-top: 970px;
+  }
+  .row-4 {
+    margin-left: 450px;
+  }
+  .row-5 {
+    margin-top: 470px;
+    margin-left: 60px;
+  }
+  .row-7 {
+    margin-left: 450px;
+    margin-top: 470px;
+  }
+  .row-8 {
+    margin-left: 60px;
+    margin-top: 940px;
+  }
+  .row-9 {
+    margin-left: 60px;
+    margin-top: 1440px;
+  }
+  .row-10 {
+    margin-left: 450px;
+  }
+  .row-11 {
+    margin-left: 60px;
+    margin-top: 470px;
+  }
+  .row-12 {
+    margin-left: 450px;
+  }
+  .row-19 {
+    margin-left: 60px;
+    margin-top: 940px;
+  }
+  .row-22 {
+    margin-left: 450px;
+  }
+  .row-13 {
+    margin-left: 60px;
+    margin-top: 1440px;
+  }
+  .row-14 {
+    margin-left: 450px;
+  }
+  .row-15 {
+    margin-left: 60px;
+    margin-top: 470px;
+  }
+  .row-23 {
+    margin-left: 450px;
+  }
+  .row-16 {
+    margin-left: 60px;
+    margin-top: 480px;
+  }
+  .row-18 {
+    margin-left: 450px;
+  }
+  #img1 {
+    margin-left: -20px;
+  }
+
+  /* phandangki */
+  .modal {
+    padding-top: 175px;
+  }
+  .container10 {
+    margin-top: 80px;
+  }
+  .modal-content {
+    background-color: #fefefe;
+    padding: 16px;
+    width: 80%;
+    height: 70%;
+  }
+  .form-control {
+    width: 380px;
+  }
+  .clearfix button {
+    width: 380px;
+  }
+
+  /* phancuoi */
+
+  .tow {
+    height: 450px;
+  }
+  .col-5 {
+    margin-top: 5px;
+  }
+  .col-12 {
+    margin-top: 12px;
+    margin-left: 36px;
+    padding: 0px;
+  }
+  .logo-1 {
+    margin-left: -210px;
+  }
+  .comer {
+    margin-left: -30px;
+  }
+}
